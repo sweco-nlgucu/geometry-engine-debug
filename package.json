@@ -1,0 +1,18 @@
+{
+    "name": "geocortex-web-project",
+    "private": true,
+    "version": "1.0.0",
+    "description": "",
+    "license": "UNLICENSED",
+    "author": "",
+    "scripts": {
+        "build": "vertigis-web-sdk build",
+        "start": "vertigis-web-sdk start"
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "@vertigis/web": "5.10.0",
+        "@vertigis/web-sdk": "1.3.5",
+        "typescript": "^4.0.2"
+    }
+}
